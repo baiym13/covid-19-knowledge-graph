@@ -1,0 +1,49 @@
+﻿index,nctid,Intervention_type,huage_did,CUI,standard_intervention,I/C ,intervention_id,“+”：has_significant；“-”：no_difference,standard_indicator,outcome_id
+3,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,-,IL-6 ,outcome_3
+4,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,-,IL-10 ,outcome_4
+5,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,-,TNF,outcome_5
+6,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,-,CA125,outcome_6
+7,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,-,Ferritin ,outcome_7
+9,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,-,Mechanical Ventilation,outcome_9
+10,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,-,Mechanical Ventilation,outcome_10
+11,NCT04452435,Drug,C21 100 mg twice daily,,C21,I,intervention_1,-,Oxygen,outcome_11
+25,NCT04392141,Drug,Colchicine and Herbal Phenolic Monoterpene Fractions,C0009262,colchicine,I,intervention_4,-,Lymphocyte Count,outcome_23
+53,NCT04646109,Drug,Ivermectin,C0022322,Ivermectin,I,intervention_6,-,Clinical Response,outcome_51
+54,NCT04646109,Drug,Ivermectin,C0022322,Ivermectin,I,intervention_6,-,SpO2,outcome_52
+55,NCT04646109,Drug,Ivermectin,C0022322,Ivermectin,I,intervention_6,-,P/F Ratio,outcome_53
+56,NCT04646109,Drug,Ivermectin,C0022322,Ivermectin,I,intervention_6,-,Lymphocyte,outcome_54
+57,NCT04646109,Drug,Ivermectin,C0022322,Ivermectin,I,intervention_6,-,PNL/L,outcome_55
+58,NCT04646109,Drug,Ivermectin,C0022322,Ivermectin,I,intervention_6,-,Ferritin,outcome_56
+59,NCT04646109,Drug,Ivermectin,C0022322,Ivermectin,I,intervention_6,-,D-dimer,outcome_57
+62,NCT04646109,Drug,Ivermectin,C0022322,Ivermectin,I,intervention_6,-,Death ,outcome_60
+67,NCT04542694,Drug,Favipiravir (Areplivir),C5392771,Avigan,I,intervention_7,-,Fever ,outcome_65
+68,NCT04542694,Drug,Favipiravir (Areplivir),C5392771,Avigan,I,intervention_7,-,Lung Damage,outcome_66
+69,NCT04542694,Drug,Favipiravir (Areplivir),C5392771,Avigan,I,intervention_7,-,Intensive Care,outcome_67
+70,NCT04542694,Drug,Favipiravir (Areplivir),C5392771,Avigan,I,intervention_7,-,Non-invasive Lung Ventilation ,outcome_68
+71,NCT04542694,Drug,Favipiravir (Areplivir),C5392771,Avigan,I,intervention_7,-,Mechanical Ventilation ,outcome_69
+72,NCT04542694,Drug,Favipiravir (Areplivir),C5392771,Avigan,I,intervention_7,-,Death ,outcome_70
+100,NCT04401579,Drug,Remdesivir+Baricitinib,C4044947,Remdesivir+Baricitinib,I,intervention_8,-,Ordinal Scale,outcome_98
+139,NCT04280705,Drug,Remdesivir,,Remdesivir,I,intervention_9,-,Adverse,outcome_87
+157,NCT04329923,Drug,Hydroxychloroquine Sulfate 400 mg twice a day,C0020336,HCQ,I,intervention_11,-,Release,outcome_139
+199,NCT04331899,Drug,Study drug Peginterferon Lambda-1a,C4043002,Peginterferon Lambda-1a,I,intervention_19,-,Viral Clearance,outcome_168
+200,NCT04331899,Drug,Study drug Peginterferon Lambda-1a,C4043002,Peginterferon Lambda-1a,I,intervention_19,-,Viral Load,outcome_169
+201,NCT04331899,Drug,Study drug Peginterferon Lambda-1a,C4043002,Peginterferon Lambda-1a,I,intervention_19,-,Viral Load,outcome_170
+202,NCT04331899,Drug,Study drug Peginterferon Lambda-1a,C4043002,Peginterferon Lambda-1a,I,intervention_19,-,Resolution of Symptoms,outcome_171
+205,NCT04292899,Drug,Remdesivir,,Remdesivir,I,intervention_20,-,Adverse,outcome_174
+208,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,-,Ordinal Scale,outcome_176
+210,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,-,Improvement,outcome_178
+212,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,-,Mechanical Ventilation,outcome_138
+213,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,-,Ventilator-free,outcome_151
+216,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,-,Ordinal Scale,outcome_176
+217,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,-,Time,outcome_182
+218,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,-,Death ,outcome_137
+219,NCT04320615,Drug,Tocilizumab (TCZ) Arm,C1609165,tocilizumab,I,intervention_22,-,Recovery,outcome_183
+328,NCT04356937,Drug,Tocilizumab,C1609165,Tocilizumab,I,intervention_56,-,Death ,outcome_274
+329,NCT04356937,Drug,Tocilizumab,C1609165,Tocilizumab,I,intervention_56,-,Ordinal Scale,outcome_275
+330,NCT04356937,Drug,Tocilizumab,C1609165,Tocilizumab,I,intervention_56,-,Oxygen,outcome_276
+372,NCT04898166,,Hydroxychloroquine,C0020336,HCQ,I,intervention_68,-,Androgenetic Alopecia,outcome_302
+468,NCT04327388,Drug,Sarilumab SAR153191,C4519528,SAR153191,I,intervention_87,-,Improvement,outcome_218
+469,NCT04327388,Drug,Sarilumab SAR153191,C4519528,SAR153191,I,intervention_87,-,Alive,outcome_370
+470,NCT04327388,Drug,Sarilumab SAR153191,C4519528,SAR153191,I,intervention_87,-,Improvement,outcome_371
+509,NCT04308668,Drug,Hydroxychloroquine,C0020336,HCQ,I,intervention_90,-,Active COVID-19 Disease at Day 15,outcome_398
+510,NCT04308668,Drug,Hydroxychloroquine,C0020336,HCQ,I,intervention_90,-,Disease Severity,outcome_399
